@@ -2,7 +2,6 @@ package ru.mkhitaryan.spring.config;
 
 import org.springframework.web.filter.HiddenHttpMethodFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-import ru.mkhitaryan.spring.config.SpringConfig;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
